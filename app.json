@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "WeatherFlow",
+    "slug": "weatherflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.weatherflow.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#081A2A"
+      }
+    }
+  }
+}
